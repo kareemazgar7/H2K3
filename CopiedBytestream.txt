@@ -1,0 +1,2 @@
+My first byte stream file
+Second line of byte stream
