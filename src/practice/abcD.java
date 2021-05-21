@@ -2,12 +2,7 @@ package practice;
 
 public class abcD {
 
-	public static void method1() {
-		int number = 10;
-		String name ="ali";
-		System.out.println(number);
-		System.out.println(name);
-	}
+
 	public  void method2() {
 		int number = 10;
 		String name ="ali";
@@ -26,7 +21,6 @@ public class abcD {
 		obj.method2();
 		obj.method3();
 		
-		method1();
 	}
 
 }
